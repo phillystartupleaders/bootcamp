@@ -10,7 +10,7 @@ bundle install
 Next, start the server by running:
 
 ```
-jekyll serve -w
+jekyll serve
 ```
 
 The website should now be running at `http://localhost:4000`.
