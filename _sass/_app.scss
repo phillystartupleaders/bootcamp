@@ -155,7 +155,7 @@ blockquote {
 
 .pre-welcome {
   background-color: #fff;
-  padding: 40px 0; 
+  padding: 40px 0;
   border-bottom: 5px solid #90a735;
 }
 
@@ -192,7 +192,6 @@ blockquote {
   margin-bottom: 50px;
   padding-top: 40px;
   clear: both;
-  overflow: hidden;
 }
 
 .session-icon {
@@ -228,7 +227,7 @@ blockquote {
 }
 
 .session-number {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .session:hover .session-icon {
@@ -261,10 +260,6 @@ blockquote {
   font-size: 18px;
   width: 25px;
   display: inline-block;
-}
-
-.mentor-image {
-  margin: 42px 0 0;
 }
 
 .mentor-image.inline {
